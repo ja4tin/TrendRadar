@@ -98,7 +98,6 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-
     # === 财经投资类 ===
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
@@ -116,7 +115,6 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
-
     # === 科技类平台 ===
   - id: "ithome"
     name: "IT之家"
